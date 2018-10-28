@@ -1,0 +1,436 @@
+bbmap.sh ref=./3300001097_____JGIcombinedJ13537_10000434.fasta in=/global/dna/dm_archive/sdm/illumina/00/62/12/6212.7.39804.fastq.gz  nodisk 
+bbmap.sh ref=./3300001687_____WOR8_10002702.fasta in=/global/dna/dm_archive/sdm/illumina/00/70/20/7020.7.60095.ATGTCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300001798_____JGI24126J20157_1000438.fasta in=/global/dna/dm_archive/sdm/illumina/00/72/45/7245.4.65024.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002091_____JGI24028J26656_1000152.fasta in=/global/dna/dm_archive/sdm/illumina/00/73/89/7389.4.70970.GTAGAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002091_____JGI24028J26656_1000154.fasta in=/global/dna/dm_archive/sdm/illumina/00/73/89/7389.4.70970.GTAGAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002091_____JGI24028J26656_1000301.fasta in=/global/dna/dm_archive/sdm/illumina/00/73/89/7389.4.70970.GTAGAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002091_____JGI24028J26656_1000582.fasta in=/global/dna/dm_archive/sdm/illumina/00/73/89/7389.4.70970.GTAGAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002092_____JGI24218J26658_1000290.fasta in=/global/dna/dm_archive/sdm/illumina/00/73/89/7389.6.70969.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300002092_____JGI24218J26658_1000335.fasta in=/global/dna/dm_archive/sdm/illumina/00/73/89/7389.6.70969.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300002098_____JGI24219J26650_1000491.fasta in=/global/dna/dm_archive/sdm/illumina/00/73/89/7389.7.70973.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300002098_____JGI24219J26650_1000581.fasta in=/global/dna/dm_archive/sdm/illumina/00/73/89/7389.7.70973.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300002301_____JGI24891J29808_1000608.fasta in=/global/dna/dm_archive/sdm/illumina/00/76/21/7621.7.78930.CGTACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002301_____JGI24891J29808_1000717.fasta in=/global/dna/dm_archive/sdm/illumina/00/76/21/7621.7.78930.CGTACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002307_____JGI24890J29729_1000225.fasta in=/global/dna/dm_archive/sdm/illumina/00/76/21/7621.6.78926.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002307_____JGI24890J29729_1000442.fasta in=/global/dna/dm_archive/sdm/illumina/00/76/21/7621.6.78926.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002307_____JGI24890J29729_1000451.fasta in=/global/dna/dm_archive/sdm/illumina/00/76/21/7621.6.78926.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002307_____JGI24890J29729_1000626.fasta in=/global/dna/dm_archive/sdm/illumina/00/76/21/7621.6.78926.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002307_____JGI24890J29729_1000627.fasta in=/global/dna/dm_archive/sdm/illumina/00/76/21/7621.6.78926.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002307_____JGI24890J29729_1000652.fasta in=/global/dna/dm_archive/sdm/illumina/00/76/21/7621.6.78926.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002307_____JGI24890J29729_1000712.fasta in=/global/dna/dm_archive/sdm/illumina/00/76/21/7621.6.78926.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300002835_____B570J40625_100003451.fasta in=/global/dna/dm_archive/sdm/illumina/00/61/37/6137.1.38894.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300002835_____B570J40625_100004419.fasta in=/global/dna/dm_archive/sdm/illumina/00/61/37/6137.1.38894.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300002835_____B570J40625_100004931.fasta in=/global/dna/dm_archive/sdm/illumina/00/61/37/6137.1.38894.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300002835_____B570J40625_100005612.fasta in=/global/dna/dm_archive/sdm/illumina/00/61/37/6137.1.38894.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300002835_____B570J40625_100005780.fasta in=/global/dna/dm_archive/sdm/illumina/00/61/37/6137.1.38894.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300002835_____B570J40625_100006212.fasta in=/global/dna/dm_archive/sdm/illumina/00/61/37/6137.1.38894.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300002835_____B570J40625_100006411.fasta in=/global/dna/dm_archive/sdm/illumina/00/61/37/6137.1.38894.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300002835_____B570J40625_100013225.fasta in=/global/dna/dm_archive/sdm/illumina/00/61/37/6137.1.38894.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300003375_____JGI26470J50227_1000268.fasta in=/global/dna/dm_archive/sdm/illumina/00/81/98/8198.7.93964.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300003375_____JGI26470J50227_1000762.fasta in=/global/dna/dm_archive/sdm/illumina/00/81/98/8198.7.93964.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300003375_____JGI26470J50227_1000846.fasta in=/global/dna/dm_archive/sdm/illumina/00/81/98/8198.7.93964.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300003375_____JGI26470J50227_1000924.fasta in=/global/dna/dm_archive/sdm/illumina/00/81/98/8198.7.93964.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300003413_____JGI25922J50271_10000494.fasta in=/global/dna/dm_archive/sdm/illumina/00/81/99/8199.3.94080.ACCTCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300003432_____JGI20214J51088_10000979.fasta in=/global/dna/dm_archive/sdm/illumina/00/65/58/6558.7.47340.GTGAAA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/79/47/7947.1.87645.GTCCGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/80/69/8069.1.89378.GGCTAC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/85/10/8510.1.103242.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300003785_____Ga0007851_100001.fasta in=/global/dna/dm_archive/sdm/illumina/00/84/04/8404.8.100576.TCCTGAG-CTCTCTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300003820_____Ga0007863_1000046.fasta in=/global/dna/dm_archive/sdm/illumina/00/84/09/8409.1.100824.TAAGGCG-CTCTCTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300003820_____Ga0007863_1000076.fasta in=/global/dna/dm_archive/sdm/illumina/00/84/09/8409.1.100824.TAAGGCG-CTCTCTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300003852_____Ga0031655_10000867.fasta in=/global/dna/dm_archive/sdm/illumina/00/83/30/8330.5.99213.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300003852_____Ga0031655_10001695.fasta in=/global/dna/dm_archive/sdm/illumina/00/83/30/8330.5.99213.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300003860_____Ga0031658_1000156.fasta in=/global/dna/dm_archive/sdm/illumina/00/83/30/8330.7.99217.TAGCTT.fastq.gz  nodisk 
+bbmap.sh ref=./3300004770_____Ga0007804_1000288.fasta in=/global/dna/dm_archive/sdm/illumina/00/88/71/8871.3.114467.TCCTGAG-AGAGTAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300004806_____Ga0007854_10000594.fasta in=/global/dna/dm_archive/sdm/illumina/00/88/52/8852.1.113741.GAGTGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300004806_____Ga0007854_10001399.fasta in=/global/dna/dm_archive/sdm/illumina/00/88/52/8852.1.113741.GAGTGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300004807_____Ga0007809_10000095.fasta in=/global/dna/dm_archive/sdm/illumina/00/88/52/8852.1.113741.CCGTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300004807_____Ga0007809_10000678.fasta in=/global/dna/dm_archive/sdm/illumina/00/88/52/8852.1.113741.CCGTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005119_____Ga0070420_1191.fasta in=/global/dna/dm_archive/sdm/illumina/00/81/75/8175.1.92512.GTGAAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300005435_____Ga0070714_100001472.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/41/9141.6.122918.ACATCT.fastq.gz  nodisk 
+bbmap.sh ref=./3300005437_____Ga0070710_10000143.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/41/9141.2.122910.AAGCGA.fastq.gz  nodisk 
+bbmap.sh ref=./3300005527_____Ga0068876_10000772.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/46/9146.2.123720.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005527_____Ga0068876_10003849.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/46/9146.2.123720.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005528_____Ga0068872_10004051.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/46/9146.2.123720.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300005528_____Ga0068872_10004467.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/46/9146.2.123720.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300005529_____Ga0070741_10016518.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/46/9146.4.123726.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300005534_____Ga0070735_10004409.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/91/9191.5.124937.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005534_____Ga0070735_10005036.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/91/9191.5.124937.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005541_____Ga0070733_10002713.fasta in=/global/dna/dm_archive/sdm/illumina/00/91/91/9191.4.124934.CCGTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005581_____Ga0049081_10000427.fasta in=/global/dna/dm_archive/sdm/illumina/00/92/70/9270.6.127432.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005581_____Ga0049081_10000462.fasta in=/global/dna/dm_archive/sdm/illumina/00/92/70/9270.6.127432.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005581_____Ga0049081_10000582.fasta in=/global/dna/dm_archive/sdm/illumina/00/92/70/9270.6.127432.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005582_____Ga0049080_10000091.fasta in=/global/dna/dm_archive/sdm/illumina/00/92/70/9270.6.127432.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300005590_____Ga0070727_10004000.fasta in=/global/dna/dm_archive/sdm/illumina/00/92/89/9289.4.128228.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300005617_____Ga0068859_100005370.fasta in=/global/dna/dm_archive/sdm/illumina/00/90/41/9041.2.119142.GGCTAC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/91/17/9117.1.122643.GGCTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005662_____Ga0078894_10001308.fasta in=/global/dna/dm_archive/sdm/illumina/00/81/99/8199.3.94080.GCACTA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/83/39/8339.1.98499.AGGCAGA-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/85/80/8580.7.105781.GGACTCC-GCGTAAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300005662_____Ga0078894_10003625.fasta in=/global/dna/dm_archive/sdm/illumina/00/81/99/8199.3.94080.GCACTA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/83/39/8339.1.98499.AGGCAGA-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/85/80/8580.7.105781.GGACTCC-GCGTAAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300005662_____Ga0078894_10004883.fasta in=/global/dna/dm_archive/sdm/illumina/00/81/99/8199.3.94080.GCACTA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/83/39/8339.1.98499.AGGCAGA-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/85/80/8580.7.105781.GGACTCC-GCGTAAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300005712_____Ga0070764_10000374.fasta in=/global/dna/dm_archive/sdm/illumina/00/92/90/9290.3.128246.ATGTCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300005861_____Ga0080006_1175989.fasta in=/global/dna/dm_archive/sdm/illumina/00/68/51/6851.7.56394.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005861_____Ga0080006_1218239.fasta in=/global/dna/dm_archive/sdm/illumina/00/68/51/6851.7.56394.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300005931_____Ga0075119_1001447.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/11/9311.8.128518.GTAGAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300005936_____Ga0075124_10000854.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/19/9319.1.128954.CGTACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300005939_____Ga0075123_10001120.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/19/9319.1.128954.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006071_____Ga0007876_1000165.fasta in=/global/dna/dm_archive/sdm/illumina/00/94/22/9422.8.132674.AGTCAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300006071_____Ga0007876_1000258.fasta in=/global/dna/dm_archive/sdm/illumina/00/94/22/9422.8.132674.AGTCAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300006100_____Ga0007806_1000231.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/87/9387.2.132031.CGTACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006103_____Ga0007813_1000158.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/87/9387.2.132031.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006104_____Ga0007882_10001075.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/87/9387.2.132031.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006108_____Ga0007862_1000466.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/87/9387.1.132018.TAGCTT.fastq.gz  nodisk 
+bbmap.sh ref=./3300006109_____Ga0007870_1000379.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/87/9387.1.132018.GGCTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006111_____Ga0007848_1000345.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/87/9387.1.132018.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006114_____Ga0007815_1000154.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/87/9387.1.132018.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006116_____Ga0007807_1000478.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300006116_____Ga0007807_1000493.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300006117_____Ga0007818_1000137.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006118_____Ga0007859_1000217.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.TAGCTT.fastq.gz  nodisk 
+bbmap.sh ref=./3300006119_____Ga0007866_1000143.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.GGCTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006119_____Ga0007866_1000151.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.GGCTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006119_____Ga0007866_1000399.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.GGCTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006122_____Ga0007837_1000084.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006126_____Ga0007855_1000567.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006127_____Ga0007805_1000262.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006127_____Ga0007805_1000453.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006127_____Ga0007805_1000719.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006127_____Ga0007805_1000725.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006128_____Ga0007828_1000470.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.ACAGTG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006129_____Ga0007834_1000393.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/71/9371.4.130824.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300006358_____Ga0068871_100001277.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/70/9370.6.130866.ACTTGA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/93/70/9370.7.130878.ACTTGA.fastq.gz  nodisk 
+bbmap.sh ref=./3300006484_____Ga0070744_10000380.fasta in=/global/dna/dm_archive/sdm/illumina/00/92/89/9289.1.128215.AGGCAGA-CTCTCTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300006802_____Ga0070749_10000650.fasta in=/global/dna/dm_archive/sdm/illumina/00/97/21/9721.8.142220.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006802_____Ga0070749_10000779.fasta in=/global/dna/dm_archive/sdm/illumina/00/97/21/9721.8.142220.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006802_____Ga0070749_10001201.fasta in=/global/dna/dm_archive/sdm/illumina/00/97/21/9721.8.142220.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006802_____Ga0070749_10001496.fasta in=/global/dna/dm_archive/sdm/illumina/00/97/21/9721.8.142220.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006802_____Ga0070749_10002953.fasta in=/global/dna/dm_archive/sdm/illumina/00/97/21/9721.8.142220.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006802_____Ga0070749_10003404.fasta in=/global/dna/dm_archive/sdm/illumina/00/97/21/9721.8.142220.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300006875_____Ga0075473_10000931.fasta in=/global/dna/dm_archive/sdm/illumina/00/95/50/9550.4.136876.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006916_____Ga0070750_10000267.fasta in=/global/dna/dm_archive/sdm/illumina/00/95/86/9586.3.138372.CGATGT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.5.215722.AGGCAGA-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.5.216381.ACAGTG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006919_____Ga0070746_10000980.fasta in=/global/dna/dm_archive/sdm/illumina/00/99/94/9994.2.144143.ATCACG.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.8.216396.GTCCGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.8.221747.AGGCAGA-AGAGTAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006919_____Ga0070746_10001925.fasta in=/global/dna/dm_archive/sdm/illumina/00/99/94/9994.2.144143.ATCACG.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.8.216396.GTCCGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.8.221747.AGGCAGA-AGAGTAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300006920_____Ga0070748_1000325.fasta in=/global/dna/dm_archive/sdm/illumina/00/99/94/9994.2.144143.CGATGT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.8.216396.GTGAAA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.5.221732.TCCTGAG-GCGTAAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300007074_____Ga0075110_1001386.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/11/9311.6.128504.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007074_____Ga0075110_1001402.fasta in=/global/dna/dm_archive/sdm/illumina/00/93/11/9311.6.128504.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007162_____Ga0079300_10000389.fasta in=/global/dna/dm_archive/sdm/illumina/00/95/67/9567.6.137555.TAAGGCG-AGAGTAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300007276_____Ga0070747_1000780.fasta in=/global/dna/dm_archive/sdm/illumina/00/95/86/9586.3.138372.ATCACG.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.5.215722.TAAGGCG-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.5.216381.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300007344_____Ga0070745_1001298.fasta in=/global/dna/dm_archive/sdm/illumina/00/99/94/9994.3.144147.GGTAGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.8.216396.CCGTCC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.8.221747.CGTACTA-TATCCTC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007344_____Ga0070745_1001700.fasta in=/global/dna/dm_archive/sdm/illumina/00/99/94/9994.3.144147.GGTAGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.8.216396.CCGTCC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.8.221747.CGTACTA-TATCCTC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007344_____Ga0070745_1002316.fasta in=/global/dna/dm_archive/sdm/illumina/00/99/94/9994.3.144147.GGTAGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.8.216396.CCGTCC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.8.221747.CGTACTA-TATCCTC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007345_____Ga0070752_1001124.fasta in=/global/dna/dm_archive/sdm/illumina/00/95/86/9586.4.138376.TGACCA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/99/94/9994.3.144147.TGACCA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/30/11730.1.217121.TGACCA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.5.221732.TAGGCAT-TATCCTC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007346_____Ga0070753_1000309.fasta in=/global/dna/dm_archive/sdm/illumina/00/95/86/9586.4.138376.ACAGTG.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/99/94/9994.3.144147.ACAGTG.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/56/11756.2.217317.ACAGTG.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/88/11788.8.219614.CGAGGCT-CTAAGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007516_____Ga0105050_10007389.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/46/10046.6.146623.GAGTGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300007516_____Ga0105050_10008796.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/46/10046.6.146623.GAGTGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300007523_____Ga0105052_10004511.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/46/10046.8.146627.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300007538_____Ga0099851_1000248.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTTTCG.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.7.216391.ATGTCA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.8.221747.TAAGGCG-CTCTCTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300007538_____Ga0099851_1001009.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTTTCG.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.7.216391.ATGTCA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.8.221747.TAAGGCG-CTCTCTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300007540_____Ga0099847_1000087.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTCCGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.6.215727.GGACTCC-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.6.216386.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007540_____Ga0099847_1000567.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTCCGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.6.215727.GGACTCC-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.6.216386.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007540_____Ga0099847_1000701.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTCCGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.6.215727.GGACTCC-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.6.216386.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007541_____Ga0099848_1000221.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTGAAA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.6.215727.TAGGCAT-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.6.216386.CTTGTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300007541_____Ga0099848_1000347.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTGAAA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.6.215727.TAGGCAT-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.6.216386.CTTGTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300007541_____Ga0099848_1001104.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTGAAA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.6.215727.TAGGCAT-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.6.216386.CTTGTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300007541_____Ga0099848_1001120.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTGAAA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.6.215727.TAGGCAT-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.6.216386.CTTGTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300007541_____Ga0099848_1001706.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTGAAA.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.6.215727.TAGGCAT-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.6.216386.CTTGTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300007542_____Ga0099846_1001258.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.5.146705.GTAGAG.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/06/11706.6.215727.TCCTGAG-TATCCTC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/24/11724.6.216386.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300007609_____Ga0102945_1000484.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.8.146725.CGCTCAT-CAGGACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300007633_____Ga0102940_1002147.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/57/10057.6.146711.CGCTCAT-ATAGAGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300007640_____Ga0070751_1001973.fasta in=/global/dna/dm_archive/sdm/illumina/00/95/86/9586.3.138372.TTAGGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/00/99/94/9994.2.144143.TTAGGC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/17/30/11730.1.217121.CGATGT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/18/25/11825.5.221732.GGACTCC-CTCTCTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300007642_____Ga0102876_1000639.fasta in=/global/dna/dm_archive/sdm/illumina/01/01/07/10107.2.148813.GAGATTC-CCTATCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300007722_____Ga0105051_10006406.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/46/10046.7.146625.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009001_____Ga0102963_1001410.fasta in=/global/dna/dm_archive/sdm/illumina/01/00/92/10092.4.148015.GAATTCG-TATAGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009026_____Ga0102829_1000633.fasta in=/global/dna/dm_archive/sdm/illumina/01/01/36/10136.6.149792.AGTCAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009068_____Ga0114973_10000565.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009068_____Ga0114973_10000639.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009068_____Ga0114973_10000749.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009068_____Ga0114973_10001071.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009070_____Ga0066256_1001637.fasta in=/global/dna/dm_archive/sdm/illumina/00/84/70/8470.1.102127.ATCACG.fastq.gz in=/global/dna/dm_archive/sdm/pacbio/00/07/43/pbio-743.7050.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/45/pbio-745.7076.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/45/pbio-745.7077.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/54/pbio-754.7155.fastq  nodisk 
+bbmap.sh ref=./3300009070_____Ga0066256_1002141.fasta in=/global/dna/dm_archive/sdm/illumina/00/84/70/8470.1.102127.ATCACG.fastq.gz in=/global/dna/dm_archive/sdm/pacbio/00/07/43/pbio-743.7050.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/45/pbio-745.7076.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/45/pbio-745.7077.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/54/pbio-754.7155.fastq  nodisk 
+bbmap.sh ref=./3300009070_____Ga0066256_1002412.fasta in=/global/dna/dm_archive/sdm/illumina/00/84/70/8470.1.102127.ATCACG.fastq.gz in=/global/dna/dm_archive/sdm/pacbio/00/07/43/pbio-743.7050.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/45/pbio-745.7076.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/45/pbio-745.7077.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/54/pbio-754.7155.fastq  nodisk 
+bbmap.sh ref=./3300009070_____Ga0066256_1003444.fasta in=/global/dna/dm_archive/sdm/illumina/00/84/70/8470.1.102127.ATCACG.fastq.gz in=/global/dna/dm_archive/sdm/pacbio/00/07/43/pbio-743.7050.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/45/pbio-745.7076.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/45/pbio-745.7077.fastq in=/global/dna/dm_archive/sdm/pacbio/00/07/54/pbio-754.7155.fastq  nodisk 
+bbmap.sh ref=./3300009085_____Ga0105103_10000524.fasta in=/global/dna/dm_archive/sdm/illumina/01/01/14/10114.1.149359.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009085_____Ga0105103_10000772.fasta in=/global/dna/dm_archive/sdm/illumina/01/01/14/10114.1.149359.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009091_____Ga0102851_10000522.fasta in=/global/dna/dm_archive/sdm/illumina/00/94/60/9460.1.133713.CAGATC.fastq.gz in=/global/dna/dm_archive/sdm/pacbio/00/10/70/pbio-1070.9786.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/72/pbio-1072.9800.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/74/pbio-1074.9818.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9824.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9825.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9826.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9827.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9828.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9829.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9830.fastq in=/global/dna/dm_archive/sdm/illumina/01/01/15/10115.8.149516.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009091_____Ga0102851_10002208.fasta in=/global/dna/dm_archive/sdm/illumina/00/94/60/9460.1.133713.CAGATC.fastq.gz in=/global/dna/dm_archive/sdm/pacbio/00/10/70/pbio-1070.9786.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/72/pbio-1072.9800.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/74/pbio-1074.9818.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9824.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9825.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9826.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9827.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9828.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9829.fastq in=/global/dna/dm_archive/sdm/pacbio/00/10/75/pbio-1075.9830.fastq in=/global/dna/dm_archive/sdm/illumina/01/01/15/10115.8.149516.GTCCGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009111_____Ga0115026_10000109.fasta in=/global/dna/dm_archive/sdm/illumina/01/02/86/10286.8.155459.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10000344.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10000711.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10000779.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10000818.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10000842.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10001148.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10001373.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10001578.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10001691.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10001763.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10002354.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10002359.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10002859.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009151_____Ga0114962_10003684.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.GCCAAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009152_____Ga0114980_10001820.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10000410.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10000572.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10000587.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10000678.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10000931.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10001463.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10002494.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10002531.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10003380.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009154_____Ga0114963_10003513.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009155_____Ga0114968_10000753.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.AGTCAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009155_____Ga0114968_10001484.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.AGTCAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009157_____Ga0105092_10001347.fasta in=/global/dna/dm_archive/sdm/illumina/01/01/36/10136.1.149768.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009158_____Ga0114977_10000780.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.CGTACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009158_____Ga0114977_10001471.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.CGTACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009158_____Ga0114977_10001724.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.CGTACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009158_____Ga0114977_10002688.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.CGTACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009159_____Ga0114978_10000595.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.GAGTGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009159_____Ga0114978_10000739.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.GAGTGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009159_____Ga0114978_10003482.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.6.157210.GAGTGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009160_____Ga0114981_10000712.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.ATGAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009160_____Ga0114981_10000978.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.ATGAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009160_____Ga0114981_10001071.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.ATGAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009161_____Ga0114966_10001014.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GGCTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009161_____Ga0114966_10005339.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GGCTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009163_____Ga0114970_10000439.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.ATGTCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009163_____Ga0114970_10001276.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.ATGTCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009163_____Ga0114970_10002242.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.ATGTCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009164_____Ga0114975_10000387.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009164_____Ga0114975_10000427.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009164_____Ga0114975_10000616.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009164_____Ga0114975_10000879.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009164_____Ga0114975_10001038.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009164_____Ga0114975_10001152.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009164_____Ga0114975_10001466.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009164_____Ga0114975_10002424.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009164_____Ga0114975_10002759.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.3.157195.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009165_____Ga0105102_10000429.fasta in=/global/dna/dm_archive/sdm/illumina/01/01/36/10136.3.149776.CTTGTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009180_____Ga0114979_10000767.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009180_____Ga0114979_10001471.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009180_____Ga0114979_10001868.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009181_____Ga0114969_10000735.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009181_____Ga0114969_10000987.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009181_____Ga0114969_10004951.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009181_____Ga0114969_10005414.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009182_____Ga0114959_10001102.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009182_____Ga0114959_10002038.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009182_____Ga0114959_10002069.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009182_____Ga0114959_10002192.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009182_____Ga0114959_10004282.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009183_____Ga0114974_10000518.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTGAAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009183_____Ga0114974_10000564.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTGAAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009183_____Ga0114974_10000644.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTGAAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009183_____Ga0114974_10000724.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTGAAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009183_____Ga0114974_10004685.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTGAAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009184_____Ga0114976_10000640.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009184_____Ga0114976_10001069.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009184_____Ga0114976_10001516.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009184_____Ga0114976_10001631.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009184_____Ga0114976_10001781.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009184_____Ga0114976_10002007.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009184_____Ga0114976_10002470.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009184_____Ga0114976_10002882.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.GTTTCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009185_____Ga0114971_10002619.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.7.157215.CCGTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009187_____Ga0114972_10001281.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.GTAGAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009409_____Ga0114993_10004619.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/11/10311.3.156203.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009413_____Ga0114902_1000298.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/59/10359.2.158623.GGACTCC-GCGTAAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009419_____Ga0114982_1000775.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/60/10360.2.158664.GGACTCC-TATCCTC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009419_____Ga0114982_1001210.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/60/10360.2.158664.GGACTCC-TATCCTC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009500_____Ga0116229_10007006.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/24/10424.2.160032.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009505_____Ga0115564_10005294.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/25/10425.7.160094.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009526_____Ga0115004_10002853.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/11/10311.8.156218.AGTCAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009545_____Ga0105237_10003663.fasta in=/global/dna/dm_archive/sdm/illumina/01/01/58/10158.3.150231.CCGTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009547_____Ga0116136_1000934.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/23/10423.6.160525.AGTAGTC-GGACTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009548_____Ga0116107_1001113.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/23/10423.6.160525.CCAGTGT-AACACTG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009548_____Ga0116107_1001592.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/23/10423.6.160525.CCAGTGT-AACACTG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009618_____Ga0116127_1001084.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/23/10423.4.160510.GAACGCT-AAGCGTT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009618_____Ga0116127_1001311.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/23/10423.4.160510.GAACGCT-AAGCGTT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009618_____Ga0116127_1001795.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/23/10423.4.160510.GAACGCT-AAGCGTT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009684_____Ga0114958_10000782.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009684_____Ga0114958_10002157.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300009690_____Ga0116143_10003940.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/85/10485.5.163947.GCCTTGT-AACAAGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009711_____Ga0116166_1004262.fasta in=/global/dna/dm_archive/sdm/illumina/01/05/39/10539.8.165412.ATTGAGC-GGCTCAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300009743_____Ga0099798_10054.fasta in=/global/dna/dm_archive/sdm/illumina/00/97/78/9778.5.143115.GTGGCC.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/02/04/10204.1.150998.GTGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300009760_____Ga0116131_1001150.fasta in=/global/dna/dm_archive/sdm/illumina/01/04/23/10423.5.160518.CCTTCCT-AAGGAAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300009781_____Ga0116178_10003357.fasta in=/global/dna/dm_archive/sdm/illumina/01/05/39/10539.5.165400.AGAATGC-GGCATTC.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10000508.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10000599.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10000624.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10000881.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10001356.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10001382.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10001616.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10001848.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10002347.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10002671.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10002903.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10003108.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010157_____Ga0114964_10003708.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010158_____Ga0114960_10000582.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.TGACCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010158_____Ga0114960_10000746.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.TGACCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010158_____Ga0114960_10000772.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.TGACCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010158_____Ga0114960_10001476.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.TGACCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010158_____Ga0114960_10002393.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.TGACCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010158_____Ga0114960_10002925.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.TGACCA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010160_____Ga0114967_10000584.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.CTTGTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010160_____Ga0114967_10001208.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.8.157220.CTTGTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010334_____Ga0136644_10000572.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.ACAGTG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010334_____Ga0136644_10001697.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.ACAGTG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010334_____Ga0136644_10001890.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.5.157205.ACAGTG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010354_____Ga0129333_10000799.fasta in=/global/dna/dm_archive/sdm/illumina/01/06/97/10697.1.175085.GAGTGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010354_____Ga0129333_10001104.fasta in=/global/dna/dm_archive/sdm/illumina/01/06/97/10697.1.175085.GAGTGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010368_____Ga0129324_10001212.fasta in=/global/dna/dm_archive/sdm/illumina/01/07/72/10772.8.178397.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300010368_____Ga0129324_10003043.fasta in=/global/dna/dm_archive/sdm/illumina/01/07/72/10772.8.178397.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300010370_____Ga0129336_10000987.fasta in=/global/dna/dm_archive/sdm/illumina/01/07/72/10772.8.178397.ACTTGA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010371_____Ga0134125_10003999.fasta in=/global/dna/dm_archive/sdm/illumina/01/07/03/10703.5.175190.GATCAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300010373_____Ga0134128_10002422.fasta in=/global/dna/dm_archive/sdm/illumina/01/07/03/10703.8.175196.CTTGTA.fastq.gz  nodisk 
+bbmap.sh ref=./3300010396_____Ga0134126_10005042.fasta in=/global/dna/dm_archive/sdm/illumina/01/07/03/10703.6.175192.TAGCTT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010396_____Ga0134126_10007836.fasta in=/global/dna/dm_archive/sdm/illumina/01/07/03/10703.6.175192.TAGCTT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010430_____Ga0118733_100031587.fasta in=/global/dna/dm_archive/sdm/illumina/00/92/90/9290.1.128240.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300010883_____Ga0133547_10020403.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/11/10311.5.156209.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300010883_____Ga0133547_10022499.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/11/10311.5.156209.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300010883_____Ga0133547_10041763.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/11/10311.5.156209.CAGATC.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10005353.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10005368.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10006257.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10006437.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10006691.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10007194.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10007223.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10007866.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10008183.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10008278.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10008287.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10008424.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10008574.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10008686.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10008696.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10008705.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10009135.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10009174.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10009524.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10009566.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10009803.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10009934.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10010149.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10010443.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10010890.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10011015.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10011061.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10011382.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10011474.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10011707.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10011865.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10012200.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10012254.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10012256.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10012518.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10012712.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10013028.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10013034.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10013167.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10013256.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10013406.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10013708.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10014576.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10014971.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10015411.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10016225.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10016429.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10016501.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10017077.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10017273.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10019324.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10019370.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10020643.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10023783.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10024645.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10025220.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10025477.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10025508.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10026199.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10026942.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10027333.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10028243.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10028904.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10029326.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10029435.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10030603.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10030843.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10031394.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10031436.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10032404.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10032612.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10032769.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10032810.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10033257.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10034462.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10034807.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10036964.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10037881.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10039029.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10039588.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10040121.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10040382.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10040671.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10042115.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10043817.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10044899.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10044996.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10046103.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10046438.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10048336.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10048399.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10048696.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10050144.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10050520.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10051232.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10055753.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10057919.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10058331.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10060220.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300010885_____Ga0133913_10061498.fasta in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz in=/global/dna/dm_archive/sdm/illumina/01/03/29/10329.4.157200.ACTGAT.fastq.gz  nodisk 
+bbmap.sh ref=./3300012031_____Ga0136561_1000418.fasta in=/global/dna/dm_archive/sdm/illumina/01/09/23/10923.4.185028.TCGCTGT-AACAGCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300012031_____Ga0136561_1000616.fasta in=/global/dna/dm_archive/sdm/illumina/01/09/23/10923.4.185028.TCGCTGT-AACAGCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300012031_____Ga0136561_1000658.fasta in=/global/dna/dm_archive/sdm/illumina/01/09/23/10923.4.185028.TCGCTGT-AACAGCG.fastq.gz  nodisk 
+bbmap.sh ref=./3300012128_____Ga0136582_1000547.fasta in=/global/dna/dm_archive/sdm/illumina/01/09/23/10923.6.185052.CAATCGA-GTCGATT.fastq.gz  nodisk 
+bbmap.sh ref=./3300012145_____Ga0136566_1000368.fasta in=/global/dna/dm_archive/sdm/illumina/01/09/23/10923.6.185052.ACAGCAA-GTTGCTG.fastq.gz  nodisk 
+bbmap.sh ref=./3300012147_____Ga0136588_1000554.fasta in=/global/dna/dm_archive/sdm/illumina/01/09/23/10923.6.185052.AGTAGTC-GGACTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300012209_____Ga0137379_10002461.fasta in=/global/dna/dm_archive/sdm/illumina/01/09/33/10933.7.185653.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300012270_____Ga0136604_1000462.fasta in=/global/dna/dm_archive/sdm/illumina/01/09/23/10923.5.185040.GCCATAA-GTTATGG.fastq.gz  nodisk 
+bbmap.sh ref=./3300012533_____Ga0138256_10005174.fasta in=/global/dna/dm_archive/sdm/illumina/01/11/07/11107.8.191810.ACAGTG.fastq.gz  nodisk 
+bbmap.sh ref=./3300012984_____Ga0164309_10000286.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/02/11202.8.196024.AGTCAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300012984_____Ga0164309_10001308.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/02/11202.8.196024.AGTCAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300013004_____Ga0164293_10000722.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/30/11230.7.197594.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300013014_____Ga0164295_10000960.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/31/11231.3.197610.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300013093_____Ga0164296_1002074.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.7.198815.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300013093_____Ga0164296_1003181.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.7.198815.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300013093_____Ga0164296_1003191.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.7.198815.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300013093_____Ga0164296_1005418.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.7.198815.CGATGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300013094_____Ga0164297_10001420.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.7.198815.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013094_____Ga0164297_10003112.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.7.198815.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013094_____Ga0164297_10004528.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.7.198815.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013094_____Ga0164297_10004763.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.7.198815.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013094_____Ga0164297_10004830.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.7.198815.TTAGGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013099_____Ga0164315_10002992.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/63/11263.4.198806.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300013126_____Ga0172367_10002111.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/59/11259.5.198597.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013126_____Ga0172367_10002920.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/59/11259.5.198597.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013126_____Ga0172367_10006316.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/59/11259.5.198597.AGTTCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013131_____Ga0172373_10004492.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/59/11259.8.198606.GTGGCC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013132_____Ga0172372_10002666.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/59/11259.7.198603.GTGAAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300013132_____Ga0172372_10003608.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/59/11259.7.198603.GTGAAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300013132_____Ga0172372_10006529.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/59/11259.7.198603.GTGAAA.fastq.gz  nodisk 
+bbmap.sh ref=./3300013285_____Ga0136642_1000288.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/92/11292.6.199695.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300013285_____Ga0136642_1001106.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/92/11292.6.199695.ATCACG.fastq.gz  nodisk 
+bbmap.sh ref=./3300013286_____Ga0136641_1000158.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/92/11292.6.199695.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013286_____Ga0136641_1000185.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/92/11292.6.199695.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013286_____Ga0136641_1000384.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/92/11292.6.199695.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300013286_____Ga0136641_1001342.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/92/11292.6.199695.GGTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300014204_____Ga0172381_10002270.fasta in=/global/dna/dm_archive/sdm/illumina/01/13/57/11357.3.203008.CCTTCCT-AAGGAAG.fastq.gz  nodisk 
+bbmap.sh ref=./3300014205_____Ga0172380_10008076.fasta in=/global/dna/dm_archive/sdm/illumina/01/13/57/11357.2.203005.CAATCGA-GTCGATT.fastq.gz  nodisk 
+bbmap.sh ref=./3300014492_____Ga0182013_10003939.fasta in=/global/dna/dm_archive/sdm/illumina/01/13/57/11357.4.203011.AGTAGTC-GGACTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300014492_____Ga0182013_10004328.fasta in=/global/dna/dm_archive/sdm/illumina/01/13/57/11357.4.203011.AGTAGTC-GGACTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300014492_____Ga0182013_10004507.fasta in=/global/dna/dm_archive/sdm/illumina/01/13/57/11357.4.203011.AGTAGTC-GGACTAC.fastq.gz  nodisk 
+bbmap.sh ref=./3300014493_____Ga0182016_10003510.fasta in=/global/dna/dm_archive/sdm/illumina/01/13/57/11357.5.203015.GAGGACT-AAGTCCT.fastq.gz  nodisk 
+bbmap.sh ref=./3300014499_____Ga0182012_10004034.fasta in=/global/dna/dm_archive/sdm/illumina/01/13/57/11357.4.203011.TACGCCT-AAGGCGT.fastq.gz  nodisk 
+bbmap.sh ref=./3300014654_____Ga0181525_10003086.fasta in=/global/dna/dm_archive/sdm/illumina/01/13/40/11340.3.202029.AGCTAAC-GGTTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300014654_____Ga0181525_10003147.fasta in=/global/dna/dm_archive/sdm/illumina/01/13/40/11340.3.202029.AGCTAAC-GGTTAGC.fastq.gz  nodisk 
+bbmap.sh ref=./3300014720_____Ga0172376_10003463.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/87/11287.7.199536.TAGCTT.fastq.gz  nodisk 
+bbmap.sh ref=./3300014720_____Ga0172376_10005535.fasta in=/global/dna/dm_archive/sdm/illumina/01/12/87/11287.7.199536.TAGCTT.fastq.gz  nodisk 
