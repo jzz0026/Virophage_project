@@ -14,3 +14,6 @@ while read i ; do sbatch -t 2880 --mincpus=1 --mem=8G -D $PWD -J snpeff --wrap="
 
 ### 4. calculate synonymous/non-synonymous for each gene
 Calculate S_N sites.ipynb
+
+### 5. Plot pNpS 
+Plot_pNpS.ipynb
